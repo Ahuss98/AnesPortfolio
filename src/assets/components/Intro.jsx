@@ -28,7 +28,7 @@ function Intro(){
 					<p className="section_text_1"> Hello, I'm</p>
 					<h1 className="title"> Anes Motam</h1>
 					<p className="section_text_2">
-						Data Engineer
+						Data Engineer & Analyst
 					</p>
                     <div className="btn-container">
 					<button className="btn btn-cv" onClick={openResume}>
@@ -49,7 +49,7 @@ function Intro(){
 					/>
 					<img
 						src="images/github-logo.png"
-						alt="My gitHub in profile"
+						alt="My GitHub in profile"
 						className="icon"
 						onClick={gitHub}
 					/>
